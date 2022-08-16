@@ -10,7 +10,7 @@ function add(a, b) {
 }
 
 function hello(name) {
-  return "Hello " + name;
+  return "Say Hello " + name;
 }
 
 /**
